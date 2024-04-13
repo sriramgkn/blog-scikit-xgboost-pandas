@@ -1,1 +1,1 @@
-# blog-scikit-xgboost-pandas
+Jupyter notebook for [blogpost](https://sriramgkn.github.io/scikit-xgboost-pandas/) on scikit-learn, XGBoost, and pandas. Dependencies are explained inside the notebook. These codes were developed for illustrative purposes, and might benefit from customization to suit specific needs.
